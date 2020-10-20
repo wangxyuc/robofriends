@@ -4,7 +4,7 @@ import Card from './Card';
 const CardList = ({robots}) => {
 
     // if (true) {
-    //     throw new Error("Nooooo!!");            purposed for error boundary tutorial 
+    //     throw new Error("Nooooo!!");            purposed for error boundary tutorial only
     // }
 
     return (
